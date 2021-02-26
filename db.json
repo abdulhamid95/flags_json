@@ -724,7 +724,7 @@
         "url": "/wiki/Iran,_Islamic_Republic_of",
         "alpha3": "IRN",
         "file_url": "http://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
-        "name": "Iran - Islamic Republic of",
+        "name": "Iran",
         "license": "Public domain"
     },
     {
@@ -1501,7 +1501,7 @@
         "url": "/wiki/Syrian_Arab_Republic",
         "alpha3": "SYR",
         "file_url": "http://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
-        "name": "Syrian Arab Republic",
+        "name": "Syria",
         "license": "Public domain"
     },
     {
@@ -1620,21 +1620,21 @@
         "url": "/wiki/United_Arab_Emirates",
         "alpha3": "ARE",
         "file_url": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "United Arab Emirates",
+        "name": "UAE",
         "license": "Public domain"
     },
     {
         "url": "/wiki/United_Kingdom",
         "alpha3": "GBR",
         "file_url": "http://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
-        "name": "United Kingdom",
+        "name": "UK",
         "license": "Public domain"
     },
     {
         "url": "/wiki/United_States",
         "alpha3": "USA",
         "file_url": "http://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
-        "name": "United States",
+        "name": "USA",
         "license": "Public domain"
     },
     {
